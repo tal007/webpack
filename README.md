@@ -1,3 +1,5 @@
+我的博客：<a href="http://www.lytblog.com/2018/01/10/webpack%E7%9A%84%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8/.html">http://www.lytblog.com/2018/01/10/webpack%E7%9A%84%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8/.html</a>
+
 # webpack的简单使用
 使用[webpack](https://doc.webpack-china.org/)首先需要安装[nodejs](https://nodejs.org/en/download/)，让后在本地电脑上配置webpack。使用`webpack`需要在本地安装`webpack`。
 ## 安装全局webpack
