@@ -1,0 +1,15 @@
+{
+  "name": "demo1",
+  "version": "1.0.0",
+  "description": "the basic of webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "",
+    "start": "webpack"
+  },
+  "author": "刘玉田",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^3.10.0"
+  }
+}
